@@ -29,7 +29,7 @@ Future
 
 # Keywords
 
-> `Java Software Development` `Pythonic` `DevOps` `Nginx+Lua` `Automation`
+> `Java Software Development` `Linux` `Pythonic` `DevOps` `Nginx+Lua` `Automation`
 
 # Contact
 
