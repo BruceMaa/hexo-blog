@@ -29,7 +29,7 @@ Future
 
 # Keywords
 
-> `Java` `Linux` `Python` `DevOps` `Nginx` `Lua` `Automation` `MySQL` `VIM` `MongoDB` `Tornado` `NodeJS` `Vue.js` `SaltStack`
+> `Java` `Linux` `Python` `DevOps` `Nginx` `Lua` `Automation` `MySQL` `VIM` `MongoDB` `Tornado` `NodeJS` `Vue.js` `SaltStack` `Redis`
 
 # Contact
 
