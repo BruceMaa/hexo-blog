@@ -1,6 +1,8 @@
 ---
 title: 大型网站系统与Java中间件实践-笔记-02
-category: Book Notes
+category: 
+- Book Notes
+- 大型网站系统与Java中间件实践
 tags:
 - Java Middleware
 ---
