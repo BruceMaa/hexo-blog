@@ -30,6 +30,8 @@ logrotate [-dv] [-f|--force] [-s|--state file] config_file+
 
 如果没有给出命令行参数，**logrotate**将打印版本和版权信息，以及一个简短的使用摘要。 如果在旋转日志时发生任何错误，**logrotate**将退出非零状态。
 
+<!-- more -->
+
 ## 选项
 
 ##### -v
