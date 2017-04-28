@@ -1,7 +1,7 @@
 ---
 title: Linux记录之logrotate
 date: 2017-04-25
-updated: 2017-04-25
+updated: 2017-04-28
 category:
 - Technology
 - Linux
@@ -287,7 +287,7 @@ logrotate [-dv] [-f|--force] [-s|--state file] config_file+
 
 > 当日志文件长度大于字节大小时会旋转。 如果大小后跟M，则大小假设为兆字节。 如果使用k，则大小为千字节。 所以尺寸100，尺寸100k，尺寸100M都是有效的。
 
-##### sahredscripts
+##### sharedscripts
 
 > 通常，对于旋转的每个日志，**prescript**和**postscript**，这意味着单个脚本可能会针对匹配多个文件（例如/ var / log / news / *示例）的日志文件条目运行多次。 如果指定了**sharedscript**，则脚本只能运行一次，无论有多少个日志与通配符一致。 但是，如果模式中的任何日志都不需要旋转，则脚本将不会运行。 此选项将覆盖nosharedscripts选项，并且意味着**create**选项。
 
